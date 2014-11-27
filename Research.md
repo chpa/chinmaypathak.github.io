@@ -19,4 +19,12 @@ I am part of the group which is studying axial dispersion in rotating cylinders.
 
 
 ### Previous Projects
-I like to play soccer, sometimes read a good book and watch interesting tv series. Sometimes I like to do nothing!
+
+### Determination of size and charge density of surfactant micelles
+
+This goup project involved studying effect of surfactant addition on size distribution and zeta potential of zein protein particles in aqueous solution. We used 6 different surfactants. The main difficulty was to prepare zein solution as zein has very low solubility in water. We solved that problem by using ethanol-water mixture to dissolve zein and then evaporating ethanol to get suspended zein particles. We were able to identify best surfactant which gave higher zeta potential and reduced particle size. 
+
+### Development and Characterization of Novel Insulation Material Using Industrial Waste
+(Final year project, Advisor: Dr. Sachin Mandavgane)
+
+The project was sponsored by DST (Department of Science and Technology, Govt. of India), to find ways of using the sludge from recycled-paper mills as for insulation and thus conserve heat energy and take care of waste disposal as well.  To find thermal conductivity of samples of waste and to assess their efficiency as insulating material, I subjected the samples to XRD, XRF, Ultimate Analysis and Proximate Analysis.  TGA-DSC analysis revealed various thermal properties for the samples.  We decided to obtain thermal conductivity versus composition and relative humidity data.  We used Lee’s disc method to measure the conductivity of samples containing different proportions of cement and moisture levels and tested their thermal insulation characteristic on a piping system. We applied 5 mm thick layers of samples of sludge and cement mix to the pipes carrying hot water and used 4-probe thermometer system to take the readings for inflowing and out-flowing hot water and at two intermediate points.  We also tested the mixtures on vessels containing hot water.  Temperature variation between insulated and bare portions of the pipes and vessels were compared by Thermal imaging. For further experiments we replaced water with gear-oil and lube-oil.  We developed cheap and effective insulating material.
