@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Currently, I am pursuing master's degree in Chemical Engineering at Rutgers University, NJ.
+I did my bachelors in chemical engineering from Visvesvaraya National Institute of Technology, Nagpur, India. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:csp007chinmay@gmail.com)
