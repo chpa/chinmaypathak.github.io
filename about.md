@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Currently, I am pursuing master's degree in Chemical Engineering at [Rutgers University](http://sol.rutgers.edu){:target="_blank"}, NJ. I am doing thesis under guidance of Dr. Nina Shapley on heteroaggregates of chitosan nanoparticles and alginate microparticles and their characteriazation using fluorescence spectroscopy. 
-I did my bachelors in chemical engineering from [Visvesvaraya National Institute of Technology](http://www.vnit.ac.in){:target="_blank"}(VNIT), Nagpur, India. 
+I did my bachelors in chemical engineering from [Visvesvaraya National Institute of Technology(VNIT)](http://www.vnit.ac.in){:target="_blank"}, Nagpur, India. 
 
 
 ### More Information
