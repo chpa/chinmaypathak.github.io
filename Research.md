@@ -17,7 +17,7 @@ When oppositely charged microparticles and nanoparticles are mixed together, agg
 (Engineering Research Center for Structured organic Particulate Systems, ERC-SOPS)
 
 I am part of the group which is studying axial dispersion in rotating cylinders. Much of previous works have focused on free flowing materials but not as much on cohesive materials.  We are investigating how fast mixing occurs for single as well as binary systems using different excipients and active pharmaceutical ingredients. Since product performance greatly depends on blend homogeneity, consequences of variability can be severe. This project will give us better insight into how mixing is affected by different factors and tools to have better control over the process. We etablished relation between flowability and bed behaviour (cascading, cataracting, centrifuging) for acetaminophen, lactose monohydrate and MCC. We have also determined axial dispersion coefficient from concentration vs axial position profiles measured for series of time points. We presented our initial findings at recent AICHE conference. 
-![_config.yml]({{ site.baseurl }}/images/alginate.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20140929_181440886.jpg)
 
 
 
