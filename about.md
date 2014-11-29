@@ -10,7 +10,7 @@ I did my bachelors in chemical engineering from [Visvesvaraya National Institute
 # [Resume](https://drive.google.com/file/d/0B-_kr213FwlKejAxYWlHUm16aFU/view?usp=sharing){:target="_blank"}
 
 <dl>
-<a href="https://raw.githubusercontent.com/chinmaypathak/chinmaypathak.github.io/master/pathakchinmay_resume.pdf" target="_newtab">Resume</a>
+<iframe src="https://raw.githubusercontent.com/chinmaypathak/chinmaypathak.github.io/master/pathakchinmay_resume.pdf" style="width:718px; height:700px;" frameborder="0"></iframe>
 </dl>
 
 ###More Information
