@@ -8,7 +8,11 @@ Currently, I am pursuing master's degree in Chemical Engineering at [Rutgers Uni
 I did my bachelors in chemical engineering from [Visvesvaraya National Institute of Technology(VNIT)](http://www.vnit.ac.in){:target="_blank"}, Nagpur, India. 
 
 # [Resume](https://drive.google.com/file/d/0B-_kr213FwlKejAxYWlHUm16aFU/view?usp=sharing){:target="_blank"}
-[Resume](https://raw.githubusercontent.com/chinmaypathak/chinmaypathak.github.io/master/pathakchinmay_resume.pdf){:target="_newtab"}
+
+<dl>
+<a href="https://raw.githubusercontent.com/chinmaypathak/chinmaypathak.github.io/master/pathakchinmay_resume.pdf" target="_newtab">Resume</a>
+</dl>
+
 ###More Information
 I like to play soccer, sometimes read a good book and watch interesting tv series. Sometimes I like to do nothing!
 
