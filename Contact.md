@@ -8,5 +8,5 @@ permalink: /Contact/
   <input type="email" name="_replyto">
   <br>
   <textarea name="body">
-  <input type="submit" value="Submit">
+  <button type="submit">Submit</button>
 </form>
