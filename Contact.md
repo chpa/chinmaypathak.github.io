@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Projects
-permalink: /Research/
+title: Contact me
+permalink: /Contact/
 ---
 
 <form action="//forms.brace.io/csp007chinmay@gmail.com">
