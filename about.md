@@ -11,7 +11,7 @@ I did my bachelors in chemical engineering from [Visvesvaraya National Institute
 <a href="{{ site.baseurl }}/resume">CV</a>
 
 ###More Information
-I like to play soccer, read a good book and watch interesting tv series. Sometimes I like to do nothing!
+I like to play soccer, read good books and watch interesting tv series. Sometimes I like to do nothing!
 
  
  
