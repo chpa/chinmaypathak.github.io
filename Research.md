@@ -1,8 +1,3 @@
----
-layout: page
-title: Research Projects
-permalink: /Research/
----
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script>
     $(document).ready(function(){
@@ -11,6 +6,12 @@ permalink: /Research/
     $(".markdown-block .sqs-block-content h2").click(function() {$(this).nextUntil("h2").slideToggle();});
     });
     </script>
+---
+layout: page
+title: Research Projects
+permalink: /Research/
+---
+
 
 # Current Projects
 
